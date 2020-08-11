@@ -1,5 +1,5 @@
 class Person
   
-  person = 
+  attr_accessor {:name, :birthday,:hair_color,:eye_color
   #your code here
 end
